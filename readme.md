@@ -1,5 +1,5 @@
 # Hey! I'm Mahmudur Nishat, a Front-end developer 
-<br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help with MERN STACK<br>🌱 I’m currently learning MERN STACK <br>
+<br>👯 I’m currently learning Modern Frontend <br>🤝 I’m looking for help with Fronted Projects <br>🌱 I’m currently learning MERN STACK <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nishat_0fficial/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudur-nishat/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/MahmudurNishat) 
